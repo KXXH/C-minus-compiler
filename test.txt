@@ -1,0 +1,22 @@
+string q="123",p="str";
+int a,c,d=a=b;
+float fff=2.333;
+int b;
+int test(void){
+    a=a*(c+d)-d-6.4;
+    return (a+b);
+}
+
+int main(int p,char c){
+    int p=0;
+    
+    p=2+1+a;
+    return p;
+}
+
+int ttt(void){
+    for(a=1;a<2;a=a+1){
+        a;
+    }
+    return 0;
+}
